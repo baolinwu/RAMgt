@@ -1,7 +1,5 @@
 # RAMgt
- - An R package for a generalized test for a Random-effects ANOVA Model.
- - Reference
-    - Bai,Y., Wang,Z., Lystig,T.C., and Wu,B. (2019) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. *arXiv:1908.07979*
+ - An R package for a generalized test for equivolency involving repeated measures in medical comparison studies.
  - Sample R codes
 ```R
  ## install the package

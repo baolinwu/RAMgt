@@ -1,4 +1,4 @@
-## various supporting functions useful for efficient comp
+## various supporting functions useful for efficient computing
 GTstat <- function(Y,A){
   ## sufficient stats
   ng = as.vector(table(A)); m = length(ng); N = sum(ng)
