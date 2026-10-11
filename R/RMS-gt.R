@@ -176,7 +176,7 @@ Zrms <- function(ng,mus,sse, alpha=0.1, rho0=3, REML=TRUE){
     mu^2+s2b+s2w - rho2
   }
   options('nloptr.show.inequality.warning'=FALSE)
-  xpar = nloptr::cobyla(c(mean(mus),log(rho2/2),log(rho2/2)), lfn, hin=cfn, control=list(maxeval=1e4))$par
+  xpar = nloptr::cobyla(c(mean(mus),log(rho2/2),log(rho2/2)), lfn, hin=cfn, control=list(maxeval=1e4), deprecatedBehavior=FALSE)$par
   mu = xpar[1];  s2b = exp(xpar[2]);  s2w = exp(xpar[3])
   tau2 = ( 2*(s2w+ng*s2b)^2+2*(ng-1)*s2w^2 + 4*ng*(s2w+ng*s2b)*mu^2 )/ng^2
   V0 = sum(tau2*ng^2/N^2)
