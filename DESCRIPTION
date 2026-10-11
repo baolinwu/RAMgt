@@ -11,4 +11,4 @@ LazyData: true
 Encoding: UTF-8
 Author: Baolin Wu [aut, cre]; Yun Bai [aut, cre]
 Maintainer: Baolin Wu <baolin.wu@uci.edu>
-Config/roxygen2/version: 8.1.0
+Config/roxygen2/version: 8.1.1

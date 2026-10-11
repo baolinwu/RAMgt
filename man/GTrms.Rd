@@ -2,7 +2,7 @@
 % Please edit documentation in R/RMS-gt.R
 \name{GTrms}
 \alias{GTrms}
-\title{Generalized test for the total absolute variation in a random-effects ANOVA model}
+\title{A generalized test approach for evaluating the total absolute variation with repeated measure (a random-effects ANOVA model)}
 \usage{
 GTrms(ng, mus, sse, alpha = NULL, rho0 = NULL, Bmc = 10000)
 }
@@ -56,5 +56,5 @@ Tsui,K.-W. and Weerahandi,S. (1989). Generalized p-Values in Significance Testin
 
 Weerahandi,S. (1993). Generalized Confidence Intervals. Journal of the American Statistical Association 88, 899–905.
 
-Bai,Y., Wang,Z., Lystig,T., and Wu,B. (2019) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. arXiv:1908.07979
+Bai,Y., Lystig,T., and Wu,B. (2026) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. tech rep.
 }
