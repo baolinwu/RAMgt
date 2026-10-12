@@ -1,5 +1,6 @@
 # RAMgt
- - An R package for a generalized test for equivolency involving repeated measures in medical comparison studies.
+ - A Generalized Testing Approach for Equivalency Assessment Using Absolute Deviation from Repeated Measures
+    (as commonly applied in medical comparison studies)
  - Sample R codes
 ```R
  ## install the package
