@@ -47,5 +47,5 @@ Pennello, G. A. (2002). Sample size for paired repeated measures designs of meth
 
 Pennello, G. A. (2003). Comparing monitoring devices when a gold standard in unavailable: Application to pulse oximeters. ASA Proceedings of the Joint Statistical Meetings pages 3256–3263.
 
-Bai,Y., Lystig,T., and Wu,B. (2026) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. tech rep.
+Bai,Y., Wang,Z., Lystig,T., and Wu,B. (2026) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. tech rep.
 }
